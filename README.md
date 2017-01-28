@@ -5,3 +5,4 @@ Solutions are provided for the first two assignments given in the Stanford class
 In particular, this repository contains solutions for the following assignments:
 + [Random Sentence Generator](https://github.com/tobiaslutz/CS107_Programming-Paradigms/blob/master/Assignment_1/04-Assignment-1-RSG.pdf)
 + [Six Degrees of Kevin Bacon](https://github.com/tobiaslutz/CS107_Programming-Paradigms/blob/master/Assignment_2/09-Assignment-2-Six-Degrees.pdf)
++ More to follow :)
